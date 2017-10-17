@@ -1,0 +1,15 @@
+﻿body
+{
+    background-color: #33D1FF;
+    font-family: sans-serif, Arial;
+}
+div{
+    width: 400px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+li::first-letter{
+    font-size: 150%;
+    font-weight:600;
+}

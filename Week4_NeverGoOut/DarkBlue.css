@@ -1,0 +1,20 @@
+﻿body
+{
+    background-color: cornflowerblue;
+    font-family: sans-serif, Arial;
+}
+
+h1{
+    font-weight: bold;
+}
+
+li{
+    align-content: center;
+    list-style-position: inside;
+    margin-left: 400px;
+
+}
+
+. copyright{
+    font-style: italic;
+}
